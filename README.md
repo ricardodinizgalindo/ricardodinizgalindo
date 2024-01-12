@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ricardodinizgalindo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ricardodinizgalindo/ricardodinizgalindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Olá , Meu nome é Ricardo Diniz
+- Trabalhando como técnico em informática a mansi de 20 anos , atualmente estou em transição de carreira , cursando Programação na instituição de Ensino Dev Club ,desenvolvendo projetos
+- como freelancer , nas tecnologias HTML, CSS, JAVA SCRIPT .
+Estou sempre buscando aprender e crescer como desenvolvedor. Meu objetivo é contribuir para projetos interessantes e desafiadores aqui no GitHub.
