@@ -1,2 +1,2 @@
 - Olá , Meu nome é Ricardo Diniz
-- Atuando  como técnico em informática a mais  20 anos sempre buscando, aprender e crescer na área de tecnologia , atualmente estou em transição de carreira ,Cursando Engenharia de Sooftwere. Meu objetivo é contribuir para projetos interessantes e desafiadores aqui no GitHub.
+- Atuando  como técnico em informática a mais  20 anos sempre buscando, aprender e crescer na área de tecnologia , atualmente estou em transição de carreira ,Cursando Engenharia de Software . Meu objetivo é contribuir para projetos interessantes e desafiadores aqui no GitHub.
